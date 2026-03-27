@@ -17,7 +17,9 @@ Altere as seguintes informações no código:
 Exemplo:
 
 private String URL_Bancodedados = "jdbc:mysql://localhost:3306/seu_banco";
+
 private String usuario = "seu_usuario";
+
 private String senha = "sua_senha";
 
 ⚠️ Atenção:
